@@ -1,29 +1,23 @@
-# This is a large heading
+# Sarita
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Waynesville, in the state of North Carolina, in the US. 
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+I really like to read food for thought books and learn anything of my choicing. 
+I tend to be very particular at times for what to learn, seems like I am always 
+doing school work.
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+I love food!
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I will like to go to the Nerai in New York, it is Greek restaurant. 
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+As of January 5th, 2020, I would like to eat any seafood and lamb chops at this moment.
 
+### Contact
+
+I suppose the best way to get in touch with me is [on Instagram](https://www.instagram.com/ssaranator/). 
